@@ -36,7 +36,7 @@ function App() {
                 <small>-{author}-</small>
             </div>
             <button className="btn" onClick={fetchNewQuote}>
-                <span>Generate Quote</span>
+                <span>Generate</span>
             </button>
         </div>
     </div>
