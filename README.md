@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+![Screenshot (191)](https://github.com/Jndhaval/Random_Quote_Generator/assets/61612894/9f5f5c91-52e5-4a40-8470-e61412cb4f20)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
